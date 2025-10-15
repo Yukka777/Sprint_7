@@ -10,7 +10,7 @@ def order_data(color=''):
         "lastName": "Гармай",
         "address": "г.Москва",
         "metroStation": "Павелецкая",
-        "phone": "+7 910 777 7777",
+        "phone": "+79105244144",
         "rentTime": 5,
         "deliveryDate": "2025-10-15",
         "comment": "Поехали",
